@@ -75,39 +75,66 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chandanramawat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanramawat&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Agent System</h3>
-      <p>Multi-agent system built with <strong>LangGraph</strong> featuring Human-in-the-Loop, Tool Calling & Streaming responses.</p>
+      <h3>✈️ AI Travel Research Assistant</h3>
+      <p>Multi-agent travel assistant built with <strong>LangGraph, Groq & FastAPI</strong> — real-time weather & web search tools.</p>
+      <a href="https://github.com/chandanramawat/travel-research-assistant">
+        <img src="https://img.shields.io/badge/View%20Repo-100000?style=flat-square&logo=github&logoColor=white" />
+      </a>
       <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td width="50%">
-      <h3>🧠 RAG Pipeline</h3>
-      <p>Document intelligence system using <strong>RAG</strong> — upload any document and chat with it using LLMs.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <h3>💰 Financial Document Intelligent Agent</h3>
+      <p>LLM-powered agent that reads & analyzes <strong>financial documents</strong> intelligently using RAG pipeline.</p>
+      <a href="https://github.com/chandanramawat/financial-document-Intelligent-agent">
+        <img src="https://img.shields.io/badge/View%20Repo-100000?style=flat-square&logo=github&logoColor=white" />
+      </a>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔗 MCP Integration</h3>
-      <p>Model Context Protocol implementation connecting <strong>LLMs with external tools</strong> and APIs seamlessly.</p>
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>📊 Data Analysis Dashboard</h3>
-      <p>Interactive <strong>Power BI dashboard</strong> with Python data processing — sales, trends & KPI tracking.</p>
+      <h3>📈 Adani Share Dashboard</h3>
+      <p>End-to-end stock data analysis of Adani Enterprises with <strong>historical trends, KPIs & investment insights</strong>.</p>
+      <a href="https://github.com/chandanramawat/adani-share-dashboard">
+        <img src="https://img.shields.io/badge/View%20Repo-100000?style=flat-square&logo=github&logoColor=white" />
+      </a>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>☕ Vaishnavi Sales Dashboard</h3>
+      <p>Interactive <strong>Power BI sales dashboard</strong> tracking trends, profits & performance insights for a coffee shop.</p>
+      <a href="https://github.com/chandanramawat/Vaishnavi-Sales-Dashboard">
+        <img src="https://img.shields.io/badge/View%20Repo-100000?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
     </td>
   </tr>
 </table>
