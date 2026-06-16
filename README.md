@@ -1,17 +1,9 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chandan%20Ramawat&fontSize=60&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20LLM%20Systems%20Builder&descAlignY=72&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chandan%20Ramawat&fontSize=60&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20LLM%20Systems%20Builder&descAlignY=72&descSize=18" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&lines=🤖+AI+Engineer+%7C+Intelligent+Agent+Builder;🧠+LangChain+%7C+LangGraph+%7C+MCP+%7C+LLMs;🔗+Human-in-the-Loop+%7C+Tool+Calling+%7C+Streaming;🚀+Building+Agentic+AI+Systems+from+Scratch;📊+Data+Analyst+→+AI+Engineer+Journey" alt="Typing SVG" />
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<h3 align="center">🤖 AI Engineer | Building Intelligent Agents with LangChain • LangGraph • MCP • LLMs</h3>
 
 ---
 
@@ -38,23 +30,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🤖 AI Engineer — Intelligent Agent Systems
-
-```python
-class ChandanRamawat:
-    role        = "AI Engineer"
-    focus       = "Intelligent Agent Systems"
-    
-    llm_stack   = ["OpenAI GPT-4", "Anthropic Claude", "Groq", "Ollama"]
-    frameworks  = ["LangChain", "LangGraph", "MCP", "CrewAI"]
-    techniques  = ["RAG", "Tool Calling", "Streaming", "Human-in-the-Loop"]
-    agents      = ["Multi-Agent Systems", "Deep Agents", "Agentic Workflows"]
-    
-    currently   = "Building production-ready AI Agent pipelines 🚀"
-```
 
 ---
 
@@ -188,7 +163,7 @@ class ChandanRamawat:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
 
 <p align="center">
